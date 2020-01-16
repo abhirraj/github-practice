@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages for Abhishek Raj's Github Practice Exercise
+## Welcome to GitHub Pages for Abhishek Raj's GitHub Practice Exercise
 
 You can use the [editor on GitHub](https://github.com/abhirraj/github-practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
